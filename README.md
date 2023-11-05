@@ -1,1 +1,1 @@
-# Moroccan-Money-detection
+# Moroccan Money classification with Pytorch
